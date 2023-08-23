@@ -1,4 +1,9 @@
-### Скоро здесь будет резюме 😄
+### Резюме в процессе создания 😄
+
+<h1 align="center">Привет, меня зовут Егор</h1>
+<h3 align="center">Тестировщик ПО</h3>
+
+
 <!--
 **LEgorro/LEgorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
